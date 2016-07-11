@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "climbingrope",
+    "count" : 4
+  },
+  "groups" : [ "plain", "all", "other" ]
+}
